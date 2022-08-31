@@ -57,7 +57,7 @@ button {
   }
   
   .highlighter {
-    background: rgba(0, 255, 0, 0.25);
+    background: rgba(59, 208, 245, 0.25);
     border: 1px dashed #fff;
     z-index: 1;
     position: absolute;
